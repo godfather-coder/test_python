@@ -45,16 +45,4 @@
 # # print(set1.pop())
 # print(len(set1))
 
-# tup = (1,2,3,4,5,5)
-# print(tup)
-# print(len(tup))
-# print(type(tup))
 
-# dct = {
-#     'a': 23,
-#     'b': [23,'sandro','mate'],
-#     2: 'c'
-# }
-# dct['1234']='axali chamatebuli'
-# print(dct.pop('b'))
-# print(dct)
